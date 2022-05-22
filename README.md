@@ -2,7 +2,7 @@
 
 ## Topologie sítě
 
-![Topologie sítě](scheme.png)
+![Topologie sítě](Scheme.png)
 
 ## Nastavení router R1
 
