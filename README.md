@@ -101,3 +101,6 @@ exit
 Po nastavení IP adresy počítačů do režimu DHCP by jim měla být přiřazena IP adresa z rozsahu 192.168.123.2 - 192.168.123.30. Do této sítě je tak teoreticky možné připojit až 29 počítačů, což splňuje zadaný požadavek na 20 počítačů.
 
 U jednoho počítače mi ani po chvíli nedošlo k přiřazení IP adresy, pomhl restart.
+
+Ukázka úspěšně provedeného příkazu ping google.com (tj. kontrola nastavené IP, správného routování i správného nastavení DNS):
+![Ping](Ping.png)
